@@ -1,0 +1,23 @@
+# data.py
+PRODUCT_CATALOG = {
+    "Organic Almonds": {"price": 20, "stock": 100},
+    "Organic Walnuts": {"price": 25, "stock": 50},
+    "Organic Cashews": {"price": 18, "stock": 75},
+    "Organic Pistachios": {"price": 22, "stock": 60},
+    "Organic Raisins": {"price": 15, "stock": 80},
+    "Organic Dates": {"price": 30, "stock": 40},
+    "Organic Honey": {"price": 12, "stock": 90},
+    "Organic Peanut Butter": {"price": 10, "stock": 30},
+    "Organic Olive Oil": {"price": 16, "stock": 20},
+    "Organic Coconut Oil": {"price": 14, "stock": 25},
+    "Organic Quinoa": {"price": 9, "stock": 70},
+    "Organic Brown Rice": {"price": 8, "stock": 85},
+    "Organic Chia Seeds": {"price": 6, "stock": 100},
+    "Organic Flax Seeds": {"price": 5, "stock": 95},
+    "Organic Oats": {"price": 7, "stock": 120},
+    "Organic Herbal Tea": {"price": 4, "stock": 150},
+    "Organic Spices Pack": {"price": 12, "stock": 45},
+    "Organic Lentils": {"price": 11, "stock": 110},
+    "Organic Chickpeas": {"price": 10, "stock": 130},
+    "Organic Dark Chocolate": {"price": 8, "stock": 55},
+}
